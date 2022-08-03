@@ -1,0 +1,43 @@
+body{
+    background: hsl(212, 45%, 89%);
+        border: 1px solid hsl(212, 45%, 89%);
+        width: 1440px;
+        margin: auto;
+
+        /* declaring the general styles  */
+    
+}
+p{
+   
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+img{
+    border-radius: 25px;
+    /* border radius to give the rounded edges in the desigh  */
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.backgroun{
+    background-color: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 45px;
+    padding: 30px 30px 50px;
+    margin: 200px 500px 50px 300px;
+
+}
+
+.ParagraphOne{
+    font-size: 45px;
+    color: hsl(218, 44%, 22%);
+}
+.ParagraphTwo{
+    font-size: 30px;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
